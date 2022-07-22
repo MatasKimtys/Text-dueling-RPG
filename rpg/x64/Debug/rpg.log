@@ -1,0 +1,7 @@
+﻿  Monster.cpp
+  Player.cpp
+  rpg.cpp
+D:\PROGRAMMING\CPP\rpg\rpg\rpg.cpp(63,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Weapon.cpp
+  Generating Code...
+  rpg.vcxproj -> D:\PROGRAMMING\CPP\rpg\x64\Debug\rpg.exe
